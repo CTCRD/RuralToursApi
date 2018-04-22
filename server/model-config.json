@@ -36,7 +36,7 @@
     "dataSource": "db",
     "public": false
   },
-  "poi": {
+  "POI": {
     "dataSource": "db",
     "public": true
   },
@@ -44,7 +44,7 @@
     "dataSource": "db",
     "public": true
   },
-  "container": {
+  "Container": {
     "dataSource": "storage",
     "public": true
   }
