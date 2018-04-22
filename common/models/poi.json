@@ -13,6 +13,10 @@
     "description": {
       "type": "string"
     },
+    "photos": {
+      "type": ["string"],
+      "required": true
+    },
     "location": {
       "type": "geopoint",
       "required": true
